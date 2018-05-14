@@ -36,7 +36,9 @@
     "uniqCompNum": 94,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/van%20Heerde/Documents/GithubYalp/Tracking/March2018"
   },
   "pages": {
     "index.html": {
@@ -5968,7 +5970,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/tracking-8.175-1920x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tracking%208.175-1920x1080.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tracking-8.175-1920x1080-800x450.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
