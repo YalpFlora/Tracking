@@ -8740,6 +8740,29 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qSibHmtnar {
+  background: #ffffff;
+}
+.cid-qSibHmtnar .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qSibHmtnar .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qSibHmtnar figcaption {
+  position: relative;
+}
+.cid-qSibHmtnar figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qSibHmtnar .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qScNcwYGcS {
   background: #ffffff;
 }
