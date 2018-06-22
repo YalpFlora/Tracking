@@ -1939,9 +1939,9 @@ body {
   text-align: center;
 }
 .cid-qM5Mb4gKWy {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+  padding-top: 120px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/tower.77-1-2000x1400.png");
 }
 .cid-qQ2cdokKrV {
   padding-top: 15px;
@@ -11400,13 +11400,40 @@ body {
 .cid-qTHObWDDVO .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qTHObX3cZX {
-  padding-top: 15px;
+.cid-qVHlmyzkXQ {
+  padding-top: 75px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
-.cid-qTHObX3cZX .mbr-section-subtitle {
+.cid-qVHlmyzkXQ h3 {
+  font-weight: 300;
+}
+.cid-qVHlmyzkXQ .card-img {
+  width: initial;
+}
+.cid-qVHlmyzkXQ .card-img .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
+}
+.cid-qVHlmyzkXQ .media-container-row {
+  word-wrap: break-word;
+  padding-bottom: 2rem;
+  height: 100%;
+}
+.cid-qVHlmyzkXQ .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qVHlmyzkXQ .mbr-section-subtitle {
   color: #767676;
+}
+.cid-qVHlmyzkXQ .mbr-text {
+  color: #767676;
+}
+.cid-qVHlmyzkXQ .media-container-column {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
 }
 .cid-qTHObXvNoS {
   padding-top: 90px;
