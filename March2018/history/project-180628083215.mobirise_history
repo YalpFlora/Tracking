@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Flora",
-    "currentPage": "page21.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13770,7 +13770,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Tekstbreedte\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Lijnbreedte\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"lijnkleur\" name=\"lineColor\" value=\"#5ccb1e\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>\n                    Everything below 1,5 m falling height.&nbsp;<br>-Rotating logs bridge (new) or Flora standard bridge wich goes up<br>-Slippy log bridge (new)<br>-ZigZag bridge wich goes down<br>-Wooden net bridge (new)<br>-Modulair net (new)<br>-ZigZagtrack<br>-Balance Beams<br>-Rings on a beam<br>-One net floor<br>- The hill has a 15 degree gradient</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Tekstbreedte\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Lijnbreedte\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"lijnkleur\" name=\"lineColor\" value=\"#5ccb1e\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>\n                    Everything below 1,5 m falling height.&nbsp;<br>-Rotating logs bridge (new) or Flora standard bridge wich goes up<br>-Slippy log bridge (new)<br>-ZigZag bridge wich goes down<br>-Wooden net bridge (new)<br>-Modulair net (new)<br>-ZigZagtrack<br>-Balance Beams<br>-Rings on a beam<br>-One net floor<br></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qVB7aejr0z",
           "_anchor": "content9-49",
           "_protectedParams": [],
@@ -13869,8 +13869,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/toestel%20dwg2.105-1920x1301.png",
-                "thumb": "@PROJECT_PATH@/assets/images/toestel-dwg2.105-1920x1301-800x542.png",
+                "image": "@PROJECT_PATH@/assets/images/toestel%20dwg.47-2000x1328.png",
+                "thumb": "@PROJECT_PATH@/assets/images/toestel-dwg.47-2000x1328-800x531.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -13882,12 +13882,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/toestel%20dwg2.106-1920x1301.png",
-                "thumb": "@PROJECT_PATH@/assets/images/toestel-dwg2.106-1920x1301-800x542.png",
+                "image": "@PROJECT_PATH@/assets/images/toestel%20dwg.46-2000x1328.png",
+                "thumb": "@PROJECT_PATH@/assets/images/toestel-dwg.46-2000x1328-800x531.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Side Top",
+                "caption": "Top",
                 "active": false
               },
               {
@@ -13895,8 +13895,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/toestel%20dwg2.104-1920x1301.png",
-                "thumb": "@PROJECT_PATH@/assets/images/toestel-dwg2.104-1920x1301-800x542.png",
+                "image": "@PROJECT_PATH@/assets/images/toestel%20dwg.45-2000x1328.png",
+                "thumb": "@PROJECT_PATH@/assets/images/toestel-dwg.45-2000x1328-800x531.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -13908,26 +13908,65 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/toestel%20dwg2.103-1920x1301.png",
-                "thumb": "@PROJECT_PATH@/assets/images/toestel-dwg2.103-1920x1301-800x542.png",
+                "image": "@PROJECT_PATH@/assets/images/toestel%20dwg.44-2000x1328.png",
+                "thumb": "@PROJECT_PATH@/assets/images/toestel-dwg.44-2000x1328-800x531.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Side",
-                "active": true
+                "caption": "Low side",
+                "active": false
               },
               {
                 "tags": "Geweldige",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/image003%20(1)-1035x307.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/image003-1-1035x307-800x237.jpg",
+                "image": "@PROJECT_PATH@/assets/images/toestel%20dwg.43-2000x1328.png",
+                "thumb": "@PROJECT_PATH@/assets/images/toestel-dwg.43-2000x1328-800x531.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Hill gradient",
+                "caption": "Side",
                 "active": false
+              },
+              {
+                "tags": "Geweldige",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/toestel%20dwg.42-2000x1328.png",
+                "thumb": "@PROJECT_PATH@/assets/images/toestel-dwg.42-2000x1328-800x531.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "No roofs",
+                "active": false
+              },
+              {
+                "tags": "Geweldige",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/toestel%20dwg.41-2000x1328.png",
+                "thumb": "@PROJECT_PATH@/assets/images/toestel-dwg.41-2000x1328-800x531.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Normal roofs",
+                "active": false
+              },
+              {
+                "tags": "Geweldige",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/toestel%20dwg.40-2000x1328.png",
+                "thumb": "@PROJECT_PATH@/assets/images/toestel-dwg.40-2000x1328-800x531.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Green roofs",
+                "active": true
               }
             ]
           }
